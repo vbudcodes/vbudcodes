@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>💻 Computer Science student  <br>🚀 Building real-world projects  <br>⚙️ Exploring backend systems & app architecture  <br>📱 Turning ideas into functional apps  <br>✨ Learning by building
 
 
